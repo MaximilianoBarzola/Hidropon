@@ -1,0 +1,34 @@
+# Tasks
+- Dosificadores:
+	- Diseño de piezas
+	- Listado y compra de materiales
+	- Armado
+	- Codigo de prueba
+	- Prueba de los mismos
+- Codigo:
+	- Elaboracion de codigo de prueba
+- Gabinete:
+	- Diseño preliminar
+	- Definicion de materiales
+	- Diseño final
+	- Armado
+- Luces:
+	- Diseño del gabinete
+	- Diseño de PCB dimmer
+	- Elaboracion del PCB
+- Medidor TDS:
+	- ~~Diseño del PCB
+	- Compra de materiales
+	- Elaboracion del PCB
+	- Prueba del mismo
+- Medidor pH:
+	- Diseño del PCB
+	- Compra de materiales
+	- Elaboracion del PCB
+	- Prueba del mismo
+- Placa principal:
+	- Definicion de los perifericos finales
+	- Diseño del PCB
+	- Compra de materiales
+	- Elaboracion del PCB
+	- Prueba del mismo con el codigo de prueba
