@@ -7,8 +7,12 @@
         "id": "f320e75c69dcff70",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Tasks General.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,8 @@
   },
   "active": "f320e75c69dcff70",
   "lastOpenFiles": [
-    "Done.md",
     "Tasks General.md",
+    "Done.md",
     "Santiago/Tasks.md",
     "Maximiliano/Tasks.md",
     "Ivan/Tasks.md"

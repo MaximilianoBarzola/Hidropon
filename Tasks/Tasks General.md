@@ -17,7 +17,7 @@
 	- Diseño de PCB dimmer
 	- Elaboracion del PCB
 - Medidor TDS:
-	- ~~Diseño del PCB
+	- ~~Diseño del PCB~~
 	- Compra de materiales
 	- Elaboracion del PCB
 	- Prueba del mismo
