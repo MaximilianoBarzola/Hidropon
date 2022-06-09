@@ -12,12 +12,12 @@
 	- Definicion de materiales
 	- Diseño final
 	- Armado
-- Luces:
+- [[Tasks/Santiago/Tasks|Luces]]
 	- Diseño del gabinete
 	- Diseño de PCB dimmer
 	- Elaboracion del PCB
 - Medidor TDS:
-	- ~~Diseño del PCB~~
+	- [~~Diseño del PCB~~](https://github.com/MaximilianoBarzola/Hidropon/tree/main/Pieces/medidor_conductividad)
 	- Compra de materiales
 	- Elaboracion del PCB
 	- Prueba del mismo
