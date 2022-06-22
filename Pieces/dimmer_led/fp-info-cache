@@ -1,4 +1,4 @@
-20650164630749608
+20688433875250703
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52087,6 +52087,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 EESTN5
+128x64OLED
+
+
+0
+4
+4
+EESTN5
 ARDUINO_MINI_PRO_EESTN5
 
 
@@ -52100,6 +52107,13 @@ ARDUINO_as_UNO_R3_CONTOUR
 0
 32
 32
+EESTN5
+Amplificador
+Through hole pin header horizontal
+pin header HEADER-4H
+0
+4
+4
 EESTN5
 Arduino_Mega2560_Shield
 https://store.arduino.cc/arduino-mega-2560-rev3
@@ -52381,6 +52395,13 @@ Modulo DRV8833 Carrier
 16
 16
 EESTN5
+DUAL_PAD_TH_SMD_2x5mm
+PAD_SMD_2x5mm
+
+0
+2
+1
+EESTN5
 Diode_Bridge_Round_D8.9mm
 4-lead round diode bridge package, diameter 8.9mm, pin pitch 5.08mm, see http://cdn-reichelt.de/documents/datenblatt/A400/W005M-W10M_SEP.PDF
 diode bridge 8.9mm 8.85mm WOB pitch 5.08mm
@@ -52429,6 +52450,13 @@ ESP32
 0
 38
 38
+EESTN5
+ESP32_DEVKIT_V1_DOIT
+ESP32 DEVKIT V1 DOIT
+ESP32
+0
+36
+36
 EESTN5
 ESP8266
 Through hole straight pin header, 2x04, 2.54mm pitch, double rows
@@ -53095,6 +53123,13 @@ SOIC Wide, 16 pins
 18
 16
 EESTN5
+SOIC-24
+24-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+24
+24
+EESTN5
 SOIC-28
 28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
 SOIC 1.27
@@ -53276,6 +53311,13 @@ Teensy40
 0
 34
 34
+EESTN5
+Teensy40_B
+Sin los pines posteriores
+
+0
+29
+29
 EESTN5
 Tornillo_M3_8mm
 Tornillo M3 8mm Con Tuerca
