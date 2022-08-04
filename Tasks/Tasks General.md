@@ -14,7 +14,7 @@
 	- Armado
 - [[Tasks/Santiago/Tasks|Luces]]
 	- Diseño del gabinete
-	- Diseño de PCB dimmer
+	- ~~Diseño de PCB dimmer~~
 	- Elaboracion del PCB
 - Medidor TDS:
 	- [~~Diseño del PCB~~](https://github.com/MaximilianoBarzola/Hidropon/tree/main/Pieces/medidor_conductividad)
